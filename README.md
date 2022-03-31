@@ -3,4 +3,4 @@
 **仅用于记录开发过程中的一些CSS知识点, 以便于以后开发遇到困难时查询**, 后续将重新创建一个仓库用于存放从基础开始学习CSS的学习笔记...
 
 ---
-**查看跳转 => <a href='https://github.com/Douc1998/CSS-Notes/issues'>ISSUE</a>**
+🔗  **查看跳转  👉  <a href='https://github.com/Douc1998/CSS-Notes/issues'>Issues</a>**
