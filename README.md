@@ -4,3 +4,10 @@
 
 ---
 🔗  **查看跳转  👉  <a href='https://github.com/Douc1998/CSS-Notes/issues'>Issues</a>**
+
+--- 
+🔗  [CSS 官方文档](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
+
+🔗  [Sass 官方文档](https://sass-lang.com/)
+
+🔗  [Animate.css 一款简单的动画库](https://animate.style/)
